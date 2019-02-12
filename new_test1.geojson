@@ -1,0 +1,325 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0158,41.9163,231.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200032",
+    "NAME":"ADRIAN, MI US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":14,
+    "TMIN":-2,
+    "TOBS":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7161,37.6336,329.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150483",
+    "NAME":"BEATTYVILLE 4 N, KY US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":22,
+    "TMIN":8,
+    "TOBS":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.36253,38.68974,14.0 ]
+    },
+    "properties": {
+    "STATION":"USW00013764",
+    "NAME":"GEORGETOWN DELAWARE COASTAL AIRPORT, DE US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":23,
+    "TMIN":9,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":9,
+    "TMIN":-4,
+    "TOBS":-4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.61299,38.45367,170.7 ]
+    },
+    "properties": {
+    "STATION":"USC00150254",
+    "NAME":"ASHLAND, KY US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":20,
+    "TMIN":8,
+    "TOBS":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":4,
+    "TMIN":-19,
+    "TOBS":-19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":null,
+    "TMIN":-6,
+    "TOBS":-6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.684,39.1733,47.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093721",
+    "NAME":"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",
+    "DATE":"2018-01-01",
+    "TAVG":13,
+    "TMAX":23,
+    "TMIN":3,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0183,41.6639,310.9 ]
+    },
+    "properties": {
+    "STATION":"USC00120200",
+    "NAME":"ANGOLA, IN US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":14,
+    "TMIN":0,
+    "TOBS":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.46667,38.98333,2.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013752",
+    "NAME":"ANNAPOLIS NAF, MD US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":24,
+    "TMIN":12,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07944,41.86778,242.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004847",
+    "NAME":"ADRIAN LENAWEE CO AIRPORT, MI US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":12,
+    "TMIN":0,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9315,39.0302,44.2 ]
+    },
+    "properties": {
+    "STATION":"USC00180700",
+    "NAME":"BELTSVILLE, MD US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":20,
+    "TMIN":7,
+    "TOBS":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":7,
+    "TMIN":-18,
+    "TOBS":-18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0127,38.7699,154.8 ]
+    },
+    "properties": {
+    "STATION":"USC00150290",
+    "NAME":"AUGUSTA 2, KY US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":20,
+    "TMIN":8,
+    "TOBS":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1247,36.8977,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150422",
+    "NAME":"BARREN RIVER LAKE, KY US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":22,
+    "TMIN":5,
+    "TOBS":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8819,36.8825,301.8 ]
+    },
+    "properties": {
+    "STATION":"USC00150381",
+    "NAME":"BARBOURVILLE, KY US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":20,
+    "TMIN":7,
+    "TOBS":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":17,
+    "TMIN":6,
+    "TOBS":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3803,36.7956,260.0 ]
+    },
+    "properties": {
+    "STATION":"USR0000KALP",
+    "NAME":"ALPINE KENTUCKY, KY US",
+    "DATE":"2018-01-01",
+    "TAVG":12,
+    "TMAX":22,
+    "TMIN":6,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3847,37.8194,237.7 ]
+    },
+    "properties": {
+    "STATION":"USC00150397",
+    "NAME":"BARDSTOWN 5 E, KY US",
+    "DATE":"2018-01-01",
+    "TAVG":null,
+    "TMAX":16,
+    "TMIN":1,
+    "TOBS":8
+    }
+  }
+]
+}

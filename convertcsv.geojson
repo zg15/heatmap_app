@@ -1,0 +1,2181 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-01",
+    "TAVG":"",
+    "TMAX":54,
+    "TMIN":37,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-02",
+    "TAVG":"",
+    "TMAX":39,
+    "TMIN":30,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-03",
+    "TAVG":"",
+    "TMAX":42,
+    "TMIN":28,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-04",
+    "TAVG":"",
+    "TMAX":43,
+    "TMIN":27,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-05",
+    "TAVG":"",
+    "TMAX":45,
+    "TMIN":32,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-06",
+    "TAVG":"",
+    "TMAX":47,
+    "TMIN":28,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-07",
+    "TAVG":"",
+    "TMAX":30,
+    "TMIN":20,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-08",
+    "TAVG":"",
+    "TMAX":41,
+    "TMIN":30,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-09",
+    "TAVG":"",
+    "TMAX":42,
+    "TMIN":31,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-10",
+    "TAVG":"",
+    "TMAX":31,
+    "TMIN":25,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-11",
+    "TAVG":"",
+    "TMAX":28,
+    "TMIN":16,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-12",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":14,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-13",
+    "TAVG":"",
+    "TMAX":30,
+    "TMIN":18,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-14",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":11,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-15",
+    "TAVG":"",
+    "TMAX":36,
+    "TMIN":14,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-16",
+    "TAVG":"",
+    "TMAX":38,
+    "TMIN":17,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-17",
+    "TAVG":"",
+    "TMAX":31,
+    "TMIN":19,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-18",
+    "TAVG":"",
+    "TMAX":33,
+    "TMIN":24,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-19",
+    "TAVG":"",
+    "TMAX":33,
+    "TMIN":22,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-20",
+    "TAVG":"",
+    "TMAX":34,
+    "TMIN":8,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-21",
+    "TAVG":"",
+    "TMAX":10,
+    "TMIN":-1,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-22",
+    "TAVG":"",
+    "TMAX":25,
+    "TMIN":6,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-23",
+    "TAVG":"",
+    "TMAX":36,
+    "TMIN":20,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-24",
+    "TAVG":"",
+    "TMAX":58,
+    "TMIN":31,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-25",
+    "TAVG":"",
+    "TMAX":35,
+    "TMIN":22,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-26",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":18,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-27",
+    "TAVG":"",
+    "TMAX":44,
+    "TMIN":18,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-28",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":16,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-29",
+    "TAVG":"",
+    "TMAX":29,
+    "TMIN":15,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-30",
+    "TAVG":"",
+    "TMAX":28,
+    "TMIN":-2,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"2019-01-31",
+    "TAVG":"",
+    "TMAX":14,
+    "TMIN":-9,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-01",
+    "TAVG":"",
+    "TMAX":73,
+    "TMIN":48,
+    "TOBS":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-02",
+    "TAVG":"",
+    "TMAX":58,
+    "TMIN":42,
+    "TOBS":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-03",
+    "TAVG":"",
+    "TMAX":51,
+    "TMIN":42,
+    "TOBS":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-04",
+    "TAVG":"",
+    "TMAX":49,
+    "TMIN":40,
+    "TOBS":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-05",
+    "TAVG":"",
+    "TMAX":59,
+    "TMIN":40,
+    "TOBS":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-06",
+    "TAVG":"",
+    "TMAX":49,
+    "TMIN":35,
+    "TOBS":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-07",
+    "TAVG":"",
+    "TMAX":57,
+    "TMIN":33,
+    "TOBS":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-08",
+    "TAVG":"",
+    "TMAX":62,
+    "TMIN":43,
+    "TOBS":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-09",
+    "TAVG":"",
+    "TMAX":58,
+    "TMIN":36,
+    "TOBS":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-10",
+    "TAVG":"",
+    "TMAX":41,
+    "TMIN":21,
+    "TOBS":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-11",
+    "TAVG":"",
+    "TMAX":29,
+    "TMIN":15,
+    "TOBS":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-13",
+    "TAVG":"",
+    "TMAX":45,
+    "TMIN":15,
+    "TOBS":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-14",
+    "TAVG":"",
+    "TMAX":38,
+    "TMIN":35,
+    "TOBS":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-15",
+    "TAVG":"",
+    "TMAX":37,
+    "TMIN":31,
+    "TOBS":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-16",
+    "TAVG":"",
+    "TMAX":36,
+    "TMIN":30,
+    "TOBS":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-17",
+    "TAVG":"",
+    "TMAX":33,
+    "TMIN":30,
+    "TOBS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-18",
+    "TAVG":"",
+    "TMAX":38,
+    "TMIN":31,
+    "TOBS":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-19",
+    "TAVG":"",
+    "TMAX":45,
+    "TMIN":36,
+    "TOBS":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-20",
+    "TAVG":"",
+    "TMAX":53,
+    "TMIN":34,
+    "TOBS":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-21",
+    "TAVG":"",
+    "TMAX":34,
+    "TMIN":7,
+    "TOBS":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-22",
+    "TAVG":"",
+    "TMAX":24,
+    "TMIN":7,
+    "TOBS":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-23",
+    "TAVG":"",
+    "TMAX":46,
+    "TMIN":20,
+    "TOBS":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-24",
+    "TAVG":"",
+    "TMAX":58,
+    "TMIN":34,
+    "TOBS":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-25",
+    "TAVG":"",
+    "TMAX":48,
+    "TMIN":26,
+    "TOBS":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-26",
+    "TAVG":"",
+    "TMAX":35,
+    "TMIN":20,
+    "TOBS":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-27",
+    "TAVG":"",
+    "TMAX":40,
+    "TMIN":20,
+    "TOBS":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-28",
+    "TAVG":"",
+    "TMAX":40,
+    "TMIN":20,
+    "TOBS":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-29",
+    "TAVG":"",
+    "TMAX":50,
+    "TMIN":23,
+    "TOBS":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-30",
+    "TAVG":"",
+    "TMAX":41,
+    "TMIN":14,
+    "TOBS":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"2019-01-31",
+    "TAVG":"",
+    "TMAX":25,
+    "TMIN":12,
+    "TOBS":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-01",
+    "TAVG":"",
+    "TMAX":57,
+    "TMIN":37,
+    "TOBS":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-02",
+    "TAVG":"",
+    "TMAX":58,
+    "TMIN":38,
+    "TOBS":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-03",
+    "TAVG":"",
+    "TMAX":49,
+    "TMIN":41,
+    "TOBS":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-04",
+    "TAVG":"",
+    "TMAX":46,
+    "TMIN":31,
+    "TOBS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-05",
+    "TAVG":"",
+    "TMAX":46,
+    "TMIN":32,
+    "TOBS":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-06",
+    "TAVG":"",
+    "TMAX":51,
+    "TMIN":33,
+    "TOBS":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-07",
+    "TAVG":"",
+    "TMAX":54,
+    "TMIN":32,
+    "TOBS":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-08",
+    "TAVG":"",
+    "TMAX":46,
+    "TMIN":36,
+    "TOBS":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-09",
+    "TAVG":"",
+    "TMAX":63,
+    "TMIN":37,
+    "TOBS":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-10",
+    "TAVG":"",
+    "TMAX":38,
+    "TMIN":20,
+    "TOBS":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-11",
+    "TAVG":"",
+    "TMAX":22,
+    "TMIN":19,
+    "TOBS":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-12",
+    "TAVG":"",
+    "TMAX":38,
+    "TMIN":19,
+    "TOBS":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-13",
+    "TAVG":"",
+    "TMAX":33,
+    "TMIN":29,
+    "TOBS":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-14",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":29,
+    "TOBS":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-15",
+    "TAVG":"",
+    "TMAX":33,
+    "TMIN":29,
+    "TOBS":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-16",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":27,
+    "TOBS":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-17",
+    "TAVG":"",
+    "TMAX":34,
+    "TMIN":31,
+    "TOBS":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-18",
+    "TAVG":"",
+    "TMAX":35,
+    "TMIN":31,
+    "TOBS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-19",
+    "TAVG":"",
+    "TMAX":41,
+    "TMIN":30,
+    "TOBS":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-20",
+    "TAVG":"",
+    "TMAX":43,
+    "TMIN":23,
+    "TOBS":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-21",
+    "TAVG":"",
+    "TMAX":24,
+    "TMIN":4,
+    "TOBS":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-22",
+    "TAVG":"",
+    "TMAX":23,
+    "TMIN":3,
+    "TOBS":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-23",
+    "TAVG":"",
+    "TMAX":40,
+    "TMIN":12,
+    "TOBS":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-24",
+    "TAVG":"",
+    "TMAX":56,
+    "TMIN":30,
+    "TOBS":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-25",
+    "TAVG":"",
+    "TMAX":43,
+    "TMIN":26,
+    "TOBS":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-26",
+    "TAVG":"",
+    "TMAX":34,
+    "TMIN":15,
+    "TOBS":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-27",
+    "TAVG":"",
+    "TMAX":36,
+    "TMIN":18,
+    "TOBS":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-28",
+    "TAVG":"",
+    "TMAX":40,
+    "TMIN":18,
+    "TOBS":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-29",
+    "TAVG":"",
+    "TMAX":49,
+    "TMIN":19,
+    "TOBS":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-30",
+    "TAVG":"",
+    "TMAX":38,
+    "TMIN":12,
+    "TOBS":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473.0 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"2019-01-31",
+    "TAVG":"",
+    "TMAX":23,
+    "TMIN":3,
+    "TOBS":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-01",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-04",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-05",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-08",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-12",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-13",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-18",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-19",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-20",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-21",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-24",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-29",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"2019-01-30",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-01",
+    "TAVG":"",
+    "TMAX":57,
+    "TMIN":30,
+    "TOBS":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-02",
+    "TAVG":"",
+    "TMAX":59,
+    "TMIN":38,
+    "TOBS":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-03",
+    "TAVG":"",
+    "TMAX":43,
+    "TMIN":39,
+    "TOBS":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-04",
+    "TAVG":"",
+    "TMAX":46,
+    "TMIN":28,
+    "TOBS":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-05",
+    "TAVG":"",
+    "TMAX":45,
+    "TMIN":28,
+    "TOBS":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-06",
+    "TAVG":"",
+    "TMAX":47,
+    "TMIN":42,
+    "TOBS":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-07",
+    "TAVG":"",
+    "TMAX":52,
+    "TMIN":30,
+    "TOBS":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-08",
+    "TAVG":"",
+    "TMAX":37,
+    "TMIN":30,
+    "TOBS":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-09",
+    "TAVG":"",
+    "TMAX":48,
+    "TMIN":37,
+    "TOBS":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-10",
+    "TAVG":"",
+    "TMAX":45,
+    "TMIN":30,
+    "TOBS":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-11",
+    "TAVG":"",
+    "TMAX":37,
+    "TMIN":25,
+    "TOBS":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-12",
+    "TAVG":"",
+    "TMAX":36,
+    "TMIN":21,
+    "TOBS":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-13",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":21,
+    "TOBS":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-14",
+    "TAVG":"",
+    "TMAX":31,
+    "TMIN":24,
+    "TOBS":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-15",
+    "TAVG":"",
+    "TMAX":34,
+    "TMIN":15,
+    "TOBS":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-16",
+    "TAVG":"",
+    "TMAX":38,
+    "TMIN":16,
+    "TOBS":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-17",
+    "TAVG":"",
+    "TMAX":39,
+    "TMIN":23,
+    "TOBS":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-18",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":29,
+    "TOBS":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-19",
+    "TAVG":"",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-20",
+    "TAVG":"",
+    "TMAX":45,
+    "TMIN":32,
+    "TOBS":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-21",
+    "TAVG":"",
+    "TMAX":49,
+    "TMIN":10,
+    "TOBS":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-22",
+    "TAVG":"",
+    "TMAX":19,
+    "TMIN":10,
+    "TOBS":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-23",
+    "TAVG":"",
+    "TMAX":32,
+    "TMIN":12,
+    "TOBS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-24",
+    "TAVG":"",
+    "TMAX":55,
+    "TMIN":32,
+    "TOBS":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-25",
+    "TAVG":"",
+    "TMAX":57,
+    "TMIN":27,
+    "TOBS":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-26",
+    "TAVG":"",
+    "TMAX":39,
+    "TMIN":18,
+    "TOBS":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-27",
+    "TAVG":"",
+    "TMAX":35,
+    "TMIN":20,
+    "TOBS":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-28",
+    "TAVG":"",
+    "TMAX":45,
+    "TMIN":26,
+    "TOBS":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-29",
+    "TAVG":"",
+    "TMAX":34,
+    "TMIN":27,
+    "TOBS":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-30",
+    "TAVG":"",
+    "TMAX":37,
+    "TMIN":16,
+    "TOBS":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"2019-01-31",
+    "TAVG":"",
+    "TMAX":33,
+    "TMIN":5,
+    "TOBS":6
+    }
+  }
+]
+}

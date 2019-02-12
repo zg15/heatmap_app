@@ -1,0 +1,185 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"2019-01-01",
+    "TMAX":38,
+    "TMIN":31,
+    "TOBS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"2019-01-02",
+    "TMAX":33,
+    "TMIN":25,
+    "TOBS":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"2019-01-03",
+    "TMAX":31,
+    "TMIN":21,
+    "TOBS":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"2019-01-04",
+    "TMAX":43,
+    "TMIN":21,
+    "TOBS":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"2019-01-01",
+    "TMAX":47,
+    "TMIN":27,
+    "TOBS":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"2019-01-02",
+    "TMAX":37,
+    "TMIN":32,
+    "TOBS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"2019-01-03",
+    "TMAX":37,
+    "TMIN":29,
+    "TOBS":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"2019-01-04",
+    "TMAX":43,
+    "TMIN":28,
+    "TOBS":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"2019-01-01",
+    "TMAX":35,
+    "TMIN":null,
+    "TOBS":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"2019-01-02",
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"2019-01-03",
+    "TMAX":28,
+    "TMIN":20,
+    "TOBS":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"2019-01-04",
+    "TMAX":44,
+    "TMIN":21,
+    "TOBS":26
+    }
+  }
+]
+}

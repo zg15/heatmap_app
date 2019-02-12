@@ -1,0 +1,4952 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7161,37.6336,329.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150483",
+    "NAME":"BEATTYVILLE 4 N, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":88,
+    "TMIN":67,
+    "TOBS":70,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.36253,38.68974,14 ]
+    },
+    "properties": {
+    "STATION":"USW00013764",
+    "NAME":"GEORGETOWN DELAWARE COASTAL AIRPORT, DE US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":73,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":71,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":null,
+    "TOBS":73,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":68,
+    "TOBS":75,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6333,37.75,359.7 ]
+    },
+    "properties": {
+    "STATION":"USR0000KBSN",
+    "NAME":"BIG SANDY KENTUCKY, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":75,
+    "TMAX":84,
+    "TMIN":68,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7705,37.3577,268.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150860",
+    "NAME":"BOONEVILLE 12 SW, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":88,
+    "TMIN":66,
+    "TOBS":67,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7163,40.1117,256.3 ]
+    },
+    "properties": {
+    "STATION":"USC00120177",
+    "NAME":"ANDERSON SEWAGE PLANT, IN US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":70,
+    "TOBS":75,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97,38.9133,15.2 ]
+    },
+    "properties": {
+    "STATION":"USC00186350",
+    "NAME":"NATIONAL ARBORETUM DC, MD US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":90,
+    "TMIN":73,
+    "TOBS":76,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6572,37.9161,167.6 ]
+    },
+    "properties": {
+    "STATION":"USC00150630",
+    "NAME":"BERNHEIM FOREST, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":68,
+    "TOBS":86,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0183,41.6639,310.9 ]
+    },
+    "properties": {
+    "STATION":"USC00120200",
+    "NAME":"ANGOLA, IN US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":58,
+    "TOBS":65,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1134,38.9385,45.7 ]
+    },
+    "properties": {
+    "STATION":"USC00182325",
+    "NAME":"DALECARLIA RESERVOIR, MD US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":89,
+    "TMIN":72,
+    "TOBS":74,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":58,
+    "TOBS":74,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.3363,36.858,111.3 ]
+    },
+    "properties": {
+    "STATION":"USC00150611",
+    "NAME":"BENTON, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":90,
+    "TMIN":66,
+    "TOBS":66,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0127,38.7699,154.8 ]
+    },
+    "properties": {
+    "STATION":"USC00150290",
+    "NAME":"AUGUSTA 2, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":88,
+    "TMIN":69,
+    "TOBS":70,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4706,37.3417,237.7 ]
+    },
+    "properties": {
+    "STATION":"USC00151080",
+    "NAME":"BUCKHORN LAKE, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":91,
+    "TMIN":69,
+    "TOBS":69,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1247,36.8977,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150422",
+    "NAME":"BARREN RIVER LAKE, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":89,
+    "TMIN":71,
+    "TOBS":73,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4238,36.9647,160.9 ]
+    },
+    "properties": {
+    "STATION":"USW00093808",
+    "NAME":"BOWLING GREEN WARREN CO AIRPORT, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":89,
+    "TMIN":71,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3803,36.7956,260 ]
+    },
+    "properties": {
+    "STATION":"USR0000KALP",
+    "NAME":"ALPINE KENTUCKY, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":76,
+    "TMAX":88,
+    "TMIN":69,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2325,37.2504,240.8 ]
+    },
+    "properties": {
+    "STATION":"USW00063849",
+    "NAME":"BOWLING GREEN 21 NNE, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":88,
+    "TMIN":70,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1162,37.956,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150955",
+    "NAME":"BRANDENBURG, KY US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":89,
+    "TMIN":68,
+    "TOBS":69,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0158,41.9163,231.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200032",
+    "NAME":"ADRIAN, MI US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":88,
+    "TMIN":63,
+    "TOBS":70,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1994,35.3992,185.9 ]
+    },
+    "properties": {
+    "STATION":"USC00310090",
+    "NAME":"ALBEMARLE, NC US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":93,
+    "TMIN":70,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":60,
+    "TOBS":60,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.684,39.1733,47.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093721",
+    "NAME":"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",
+    "DATE":"9/1/2018",
+    "TAVG":75,
+    "TMAX":83,
+    "TMIN":72,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":63,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.74444,42.22278,255.7 ]
+    },
+    "properties": {
+    "STATION":"USW00094889",
+    "NAME":"ANN ARBOR MUNICIPAL AIRPORT, MI US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":58,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.46667,38.98333,2.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013752",
+    "NAME":"ANNAPOLIS NAF, MD US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":86,
+    "TMIN":78,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07944,41.86778,242.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004847",
+    "NAME":"ADRIAN LENAWEE CO AIRPORT, MI US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":64,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4544,46.2347,448.1 ]
+    },
+    "properties": {
+    "STATION":"USC00200197",
+    "NAME":"AMASA 1 W, MI US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":72,
+    "TMIN":48,
+    "TOBS":61,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4435,40.9181,369.7 ]
+    },
+    "properties": {
+    "STATION":"USW00014895",
+    "NAME":"AKRON CANTON AIRPORT, OH US",
+    "DATE":"9/1/2018",
+    "TAVG":76,
+    "TMAX":86,
+    "TMIN":68,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,38.4167,426.7 ]
+    },
+    "properties": {
+    "STATION":"USR0000MBLA",
+    "NAME":"BLACKWATER MARYLAND, MD US",
+    "DATE":"9/1/2018",
+    "TAVG":79,
+    "TMAX":90,
+    "TMIN":74,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9315,39.0302,44.2 ]
+    },
+    "properties": {
+    "STATION":"USC00180700",
+    "NAME":"BELTSVILLE, MD US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":71,
+    "TOBS":73,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.46417,41.0375,318.2 ]
+    },
+    "properties": {
+    "STATION":"USW00014813",
+    "NAME":"AKRON FULTON INTERNATIONAL AIRPORT, OH US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":86,
+    "TMIN":66,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.428,45.0605,179.8 ]
+    },
+    "properties": {
+    "STATION":"USW00014814",
+    "NAME":"ALPENA WASTEWATER PLANT, MI US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":71,
+    "TMIN":52,
+    "TOBS":68,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.42361,39.37778,3 ]
+    },
+    "properties": {
+    "STATION":"USW00013724",
+    "NAME":"ATLANTIC CITY MARINA, NJ US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":73,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8369,35.7426,137.2 ]
+    },
+    "properties": {
+    "STATION":"USC00310212",
+    "NAME":"APEX, NC US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":91,
+    "TMIN":71,
+    "TOBS":73,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4812,46.6448,399.3 ]
+    },
+    "properties": {
+    "STATION":"USC00200089",
+    "NAME":"ALBERTA FORD FOR CENTER, MI US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":58,
+    "TOBS":69,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.56699,39.45202,18.3 ]
+    },
+    "properties": {
+    "STATION":"USW00093730",
+    "NAME":"ATLANTIC CITY INTERNATIONAL AIRPORT, NJ US",
+    "DATE":"9/1/2018",
+    "TAVG":75,
+    "TMAX":78,
+    "TMIN":71,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":70,
+    "TOBS":71,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6933,42.2416,253.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200228",
+    "NAME":"ANN ARBOR SE, MI US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":55,
+    "TOBS":63,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.69583,41.77806,281.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004857",
+    "NAME":"ASHTABULA CO AIRPORT, OH US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":86,
+    "TMIN":60,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5644,45.0716,208.5 ]
+    },
+    "properties": {
+    "STATION":"USW00094849",
+    "NAME":"ALPENA CO REGIONAL AIRPORT, MI US",
+    "DATE":"9/1/2018",
+    "TAVG":71,
+    "TMAX":79,
+    "TMIN":63,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9781,37.3451,105.2 ]
+    },
+    "properties": {
+    "STATION":"USC00440187",
+    "NAME":"AMELIA COURTHOUSE 1, VA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":93,
+    "TMIN":68,
+    "TOBS":72,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":64,
+    "TOBS":64,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.123,37.7836,766.3 ]
+    },
+    "properties": {
+    "STATION":"USW00003872",
+    "NAME":"BECKLEY RALEIGH CO AIRPORT, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":73,
+    "TMAX":84,
+    "TMIN":64,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4667,40.4949,402.3 ]
+    },
+    "properties": {
+    "STATION":"USC00360140",
+    "NAME":"ALTOONA 3 W, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":67,
+    "TOBS":70,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1025,41.4864,539.5 ]
+    },
+    "properties": {
+    "STATION":"USR0000PALL",
+    "NAME":"ALLEGHENY PENNSYLVANIA, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":74,
+    "TMAX":86,
+    "TMIN":66,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8152,40.5361,228 ]
+    },
+    "properties": {
+    "STATION":"USC00360022",
+    "NAME":"ACMETONIA LOCK 3, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":86,
+    "TMIN":66,
+    "TOBS":67,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.32028,40.29639,451.1 ]
+    },
+    "properties": {
+    "STATION":"USW00014736",
+    "NAME":"ALTOONA BLAIR CO AIRPORT, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":69,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1176,35.7977,100.6 ]
+    },
+    "properties": {
+    "STATION":"USC00400049",
+    "NAME":"ALAMO 1 N, TN US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":70,
+    "TOBS":71,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.44771,40.64985,118.9 ]
+    },
+    "properties": {
+    "STATION":"USW00014737",
+    "NAME":"ALLENTOWN LEHIGH VALLEY INTERNATIONAL AIRPORT, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":72,
+    "TMAX":79,
+    "TMIN":69,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.92644,41.35789,283.5 ]
+    },
+    "properties": {
+    "STATION":"USC00360147",
+    "NAME":"ALVIN R BUSH DAM, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":64,
+    "TOBS":68,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":60,
+    "TOBS":60,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8744,36.3805,501.4 ]
+    },
+    "properties": {
+    "STATION":"USC00400081",
+    "NAME":"ALLARDT, TN US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":66,
+    "TOBS":71,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1179,38.1211,395 ]
+    },
+    "properties": {
+    "STATION":"USC00460202",
+    "NAME":"ANSTEAD HAWKS NEST STATE PARK, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":86,
+    "TMIN":66,
+    "TOBS":67,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5833,35.4322,286.5 ]
+    },
+    "properties": {
+    "STATION":"USC00400284",
+    "NAME":"ATHENS, TN US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":68,
+    "TOBS":69,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.85611,34.9925,269.7 ]
+    },
+    "properties": {
+    "STATION":"USC00400235",
+    "NAME":"ARDMORE, TN US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":68,
+    "TOBS":75,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2263,37.2555,874.8 ]
+    },
+    "properties": {
+    "STATION":"USC00460925",
+    "NAME":"BLUEFIELD, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":62,
+    "TOBS":63,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.20366,37.2978,870.5 ]
+    },
+    "properties": {
+    "STATION":"USW00003859",
+    "NAME":"BLUEFIELD MERCER CO AIRPORT, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":63,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43444,37.70806,62.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093775",
+    "NAME":"ASHLAND HANOVER CO MUNICIPAL AIRPORT, VA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":89,
+    "TMIN":71,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4833,37.75,67.1 ]
+    },
+    "properties": {
+    "STATION":"USC00440327",
+    "NAME":"ASHLAND, VA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":71,
+    "TOBS":75,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8274,37.3261,259.1 ]
+    },
+    "properties": {
+    "STATION":"USC00440243",
+    "NAME":"APPOMATTOX, VA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":86,
+    "TMIN":66,
+    "TOBS":72,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.19405,37.76475,710.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460580",
+    "NAME":"BECKLEY VA HOSPITAL, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":59,
+    "TOBS":61,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7861,39.8593,121.9 ]
+    },
+    "properties": {
+    "STATION":"USW00003761",
+    "NAME":"AVONDALE 2 N, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":75,
+    "TMIN":67,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":65,
+    "TOBS":65,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9333,36.6833,365.8 ]
+    },
+    "properties": {
+    "STATION":"USR0000VBAC",
+    "NAME":"BACK BAY VIRGINIA, VA US",
+    "DATE":"9/1/2018",
+    "TAVG":80,
+    "TMAX":87,
+    "TMIN":74,
+    "TOBS":null,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.3694,40.5227,390.1 ]
+    },
+    "properties": {
+    "STATION":"USC00360132",
+    "NAME":"ALTOONA, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":70,
+    "TOBS":70,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7714,38.5312,922 ]
+    },
+    "properties": {
+    "STATION":"USC00460509",
+    "NAME":"BARTOW 1 S, WV US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":58,
+    "TOBS":60,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2122,35.1131,140.2 ]
+    },
+    "properties": {
+    "STATION":"USC00400137",
+    "NAME":"AMES PLANTATION, TN US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":91,
+    "TMIN":68,
+    "TOBS":70,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.49831,40.82086,309.4 ]
+    },
+    "properties": {
+    "STATION":"USC00360457",
+    "NAME":"BEAR GAP, PA US",
+    "DATE":"9/1/2018",
+    "TAVG":null,
+    "TMAX":72,
+    "TMIN":66,
+    "TOBS":70,
+    "MON":"September"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7161,37.6336,329.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150483",
+    "NAME":"BEATTYVILLE 4 N, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":null,
+    "TOBS":63,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.36253,38.68974,14 ]
+    },
+    "properties": {
+    "STATION":"USW00013764",
+    "NAME":"GEORGETOWN DELAWARE COASTAL AIRPORT, DE US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":60,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":66,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":62,
+    "TMIN":50,
+    "TOBS":56,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":null,
+    "TOBS":64,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6333,37.75,359.7 ]
+    },
+    "properties": {
+    "STATION":"USR0000KBSN",
+    "NAME":"BIG SANDY KENTUCKY, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":73,
+    "TMAX":85,
+    "TMIN":64,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7705,37.3577,268.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150860",
+    "NAME":"BOONEVILLE 12 SW, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":51,
+    "TOBS":57,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7163,40.1117,256.3 ]
+    },
+    "properties": {
+    "STATION":"USC00120177",
+    "NAME":"ANDERSON SEWAGE PLANT, IN US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":59,
+    "TOBS":71,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97,38.9133,15.2 ]
+    },
+    "properties": {
+    "STATION":"USC00186350",
+    "NAME":"NATIONAL ARBORETUM DC, MD US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":57,
+    "TOBS":68,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6572,37.9161,167.6 ]
+    },
+    "properties": {
+    "STATION":"USC00150630",
+    "NAME":"BERNHEIM FOREST, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":60,
+    "TOBS":81,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0183,41.6639,310.9 ]
+    },
+    "properties": {
+    "STATION":"USC00120200",
+    "NAME":"ANGOLA, IN US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":75,
+    "TMIN":43,
+    "TOBS":54,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1134,38.9385,45.7 ]
+    },
+    "properties": {
+    "STATION":"USC00182325",
+    "NAME":"DALECARLIA RESERVOIR, MD US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":77,
+    "TMIN":57,
+    "TOBS":64,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":70,
+    "TMIN":50,
+    "TOBS":58,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.3363,36.858,111.3 ]
+    },
+    "properties": {
+    "STATION":"USC00150611",
+    "NAME":"BENTON, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":0,
+    "TOBS":58,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0127,38.7699,154.8 ]
+    },
+    "properties": {
+    "STATION":"USC00150290",
+    "NAME":"AUGUSTA 2, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":57,
+    "TOBS":60,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4706,37.3417,237.7 ]
+    },
+    "properties": {
+    "STATION":"USC00151080",
+    "NAME":"BUCKHORN LAKE, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":57,
+    "TOBS":60,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1247,36.8977,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150422",
+    "NAME":"BARREN RIVER LAKE, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":55,
+    "TOBS":68,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4238,36.9647,160.9 ]
+    },
+    "properties": {
+    "STATION":"USW00093808",
+    "NAME":"BOWLING GREEN WARREN CO AIRPORT, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":62,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3803,36.7956,260 ]
+    },
+    "properties": {
+    "STATION":"USR0000KALP",
+    "NAME":"ALPINE KENTUCKY, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":72,
+    "TMAX":84,
+    "TMIN":63,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2325,37.2504,240.8 ]
+    },
+    "properties": {
+    "STATION":"USW00063849",
+    "NAME":"BOWLING GREEN 21 NNE, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":64,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1162,37.956,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150955",
+    "NAME":"BRANDENBURG, KY US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":53,
+    "TOBS":58,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0158,41.9163,231.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200032",
+    "NAME":"ADRIAN, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":53,
+    "TOBS":56,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1994,35.3992,185.9 ]
+    },
+    "properties": {
+    "STATION":"USC00310090",
+    "NAME":"ALBEMARLE, NC US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":59,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":44,
+    "TOBS":51,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.08339,40.82915,80.2 ]
+    },
+    "properties": {
+    "STATION":"USC00280734",
+    "NAME":"BELVIDERE BRIDGE, NJ US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":70,
+    "TMIN":47,
+    "TOBS":55,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.684,39.1733,47.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093721",
+    "NAME":"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",
+    "DATE":"10/1/2018",
+    "TAVG":69,
+    "TMAX":83,
+    "TMIN":60,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":75,
+    "TMIN":52,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.74444,42.22278,255.7 ]
+    },
+    "properties": {
+    "STATION":"USW00094889",
+    "NAME":"ANN ARBOR MUNICIPAL AIRPORT, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":58,
+    "TMIN":53,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.46667,38.98333,2.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013752",
+    "NAME":"ANNAPOLIS NAF, MD US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":67,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07944,41.86778,242.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004847",
+    "NAME":"ADRIAN LENAWEE CO AIRPORT, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":74,
+    "TMIN":53,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4544,46.2347,448.1 ]
+    },
+    "properties": {
+    "STATION":"USC00200197",
+    "NAME":"AMASA 1 W, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":45,
+    "TMIN":31,
+    "TOBS":34,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4435,40.9181,369.7 ]
+    },
+    "properties": {
+    "STATION":"USW00014895",
+    "NAME":"AKRON CANTON AIRPORT, OH US",
+    "DATE":"10/1/2018",
+    "TAVG":68,
+    "TMAX":80,
+    "TMIN":58,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,38.4167,426.7 ]
+    },
+    "properties": {
+    "STATION":"USR0000MBLA",
+    "NAME":"BLACKWATER MARYLAND, MD US",
+    "DATE":"10/1/2018",
+    "TAVG":71,
+    "TMAX":81,
+    "TMIN":61,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9315,39.0302,44.2 ]
+    },
+    "properties": {
+    "STATION":"USC00180700",
+    "NAME":"BELTSVILLE, MD US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":77,
+    "TMIN":60,
+    "TOBS":66,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.46417,41.0375,318.2 ]
+    },
+    "properties": {
+    "STATION":"USW00014813",
+    "NAME":"AKRON FULTON INTERNATIONAL AIRPORT, OH US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":59,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.428,45.0605,179.8 ]
+    },
+    "properties": {
+    "STATION":"USW00014814",
+    "NAME":"ALPENA WASTEWATER PLANT, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":49,
+    "TMIN":43,
+    "TOBS":49,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.42361,39.37778,3 ]
+    },
+    "properties": {
+    "STATION":"USW00013724",
+    "NAME":"ATLANTIC CITY MARINA, NJ US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":69,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8369,35.7426,137.2 ]
+    },
+    "properties": {
+    "STATION":"USC00310212",
+    "NAME":"APEX, NC US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":60,
+    "TOBS":61,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4812,46.6448,399.3 ]
+    },
+    "properties": {
+    "STATION":"USC00200089",
+    "NAME":"ALBERTA FORD FOR CENTER, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":54,
+    "TMIN":36,
+    "TOBS":41,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.56699,39.45202,18.3 ]
+    },
+    "properties": {
+    "STATION":"USW00093730",
+    "NAME":"ATLANTIC CITY INTERNATIONAL AIRPORT, NJ US",
+    "DATE":"10/1/2018",
+    "TAVG":69,
+    "TMAX":81,
+    "TMIN":58,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":74,
+    "TMIN":55,
+    "TOBS":57,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6933,42.2416,253.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200228",
+    "NAME":"ANN ARBOR SE, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":66,
+    "TMIN":45,
+    "TOBS":54,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5436,42.6158,176.8 ]
+    },
+    "properties": {
+    "STATION":"USC00200106",
+    "NAME":"ALGONAC WWTP, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":55,
+    "TMIN":44,
+    "TOBS":50,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.69583,41.77806,281.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004857",
+    "NAME":"ASHTABULA CO AIRPORT, OH US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":56,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5644,45.0716,208.5 ]
+    },
+    "properties": {
+    "STATION":"USW00094849",
+    "NAME":"ALPENA CO REGIONAL AIRPORT, MI US",
+    "DATE":"10/1/2018",
+    "TAVG":49,
+    "TMAX":56,
+    "TMIN":45,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9781,37.3451,105.2 ]
+    },
+    "properties": {
+    "STATION":"USC00440187",
+    "NAME":"AMELIA COURTHOUSE 1, VA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":77,
+    "TMIN":63,
+    "TOBS":66,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":60,
+    "TOBS":61,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.123,37.7836,766.3 ]
+    },
+    "properties": {
+    "STATION":"USW00003872",
+    "NAME":"BECKLEY RALEIGH CO AIRPORT, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":68,
+    "TMAX":81,
+    "TMIN":59,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4667,40.4949,402.3 ]
+    },
+    "properties": {
+    "STATION":"USC00360140",
+    "NAME":"ALTOONA 3 W, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":52,
+    "TOBS":60,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1025,41.4864,539.5 ]
+    },
+    "properties": {
+    "STATION":"USR0000PALL",
+    "NAME":"ALLEGHENY PENNSYLVANIA, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":62,
+    "TMAX":78,
+    "TMIN":52,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8152,40.5361,228 ]
+    },
+    "properties": {
+    "STATION":"USC00360022",
+    "NAME":"ACMETONIA LOCK 3, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":74,
+    "TMIN":49,
+    "TOBS":55,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.32028,40.29639,451.1 ]
+    },
+    "properties": {
+    "STATION":"USW00014736",
+    "NAME":"ALTOONA BLAIR CO AIRPORT, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":55,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1176,35.7977,100.6 ]
+    },
+    "properties": {
+    "STATION":"USC00400049",
+    "NAME":"ALAMO 1 N, TN US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":55,
+    "TOBS":65,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.44771,40.64985,118.9 ]
+    },
+    "properties": {
+    "STATION":"USW00014737",
+    "NAME":"ALLENTOWN LEHIGH VALLEY INTERNATIONAL AIRPORT, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":65,
+    "TMAX":79,
+    "TMIN":55,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.92644,41.35789,283.5 ]
+    },
+    "properties": {
+    "STATION":"USC00360147",
+    "NAME":"ALVIN R BUSH DAM, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":68,
+    "TMIN":45,
+    "TOBS":53,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":44,
+    "TOBS":51,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8744,36.3805,501.4 ]
+    },
+    "properties": {
+    "STATION":"USC00400081",
+    "NAME":"ALLARDT, TN US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":65,
+    "TOBS":75,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1179,38.1211,395 ]
+    },
+    "properties": {
+    "STATION":"USC00460202",
+    "NAME":"ANSTEAD HAWKS NEST STATE PARK, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":52,
+    "TOBS":61,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5833,35.4322,286.5 ]
+    },
+    "properties": {
+    "STATION":"USC00400284",
+    "NAME":"ATHENS, TN US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":63,
+    "TOBS":67,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.85611,34.9925,269.7 ]
+    },
+    "properties": {
+    "STATION":"USC00400235",
+    "NAME":"ARDMORE, TN US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":64,
+    "TOBS":74,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2263,37.2555,874.8 ]
+    },
+    "properties": {
+    "STATION":"USC00460925",
+    "NAME":"BLUEFIELD, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":59,
+    "TOBS":60,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.20366,37.2978,870.5 ]
+    },
+    "properties": {
+    "STATION":"USW00003859",
+    "NAME":"BLUEFIELD MERCER CO AIRPORT, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":59,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43444,37.70806,62.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093775",
+    "NAME":"ASHLAND HANOVER CO MUNICIPAL AIRPORT, VA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":59,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4833,37.75,67.1 ]
+    },
+    "properties": {
+    "STATION":"USC00440327",
+    "NAME":"ASHLAND, VA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":60,
+    "TOBS":78,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8274,37.3261,259.1 ]
+    },
+    "properties": {
+    "STATION":"USC00440243",
+    "NAME":"APPOMATTOX, VA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":59,
+    "TOBS":62,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6428,40.8619,224 ]
+    },
+    "properties": {
+    "STATION":"USC00360560",
+    "NAME":"BELTZVILLE DAM, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":68,
+    "TMIN":46,
+    "TOBS":61,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.19405,37.76475,710.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460580",
+    "NAME":"BECKLEY VA HOSPITAL, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":49,
+    "TOBS":54,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7861,39.8593,121.9 ]
+    },
+    "properties": {
+    "STATION":"USW00003761",
+    "NAME":"AVONDALE 2 N, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":55,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":57,
+    "TOBS":60,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9333,36.6833,365.8 ]
+    },
+    "properties": {
+    "STATION":"USR0000VBAC",
+    "NAME":"BACK BAY VIRGINIA, VA US",
+    "DATE":"10/1/2018",
+    "TAVG":72,
+    "TMAX":78,
+    "TMIN":66,
+    "TOBS":null,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.3694,40.5227,390.1 ]
+    },
+    "properties": {
+    "STATION":"USC00360132",
+    "NAME":"ALTOONA, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":53,
+    "TOBS":60,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7714,38.5312,922 ]
+    },
+    "properties": {
+    "STATION":"USC00460509",
+    "NAME":"BARTOW 1 S, WV US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":70,
+    "TMIN":43,
+    "TOBS":60,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2122,35.1131,140.2 ]
+    },
+    "properties": {
+    "STATION":"USC00400137",
+    "NAME":"AMES PLANTATION, TN US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":62,
+    "TOBS":68,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.49831,40.82086,309.4 ]
+    },
+    "properties": {
+    "STATION":"USC00360457",
+    "NAME":"BEAR GAP, PA US",
+    "DATE":"10/1/2018",
+    "TAVG":null,
+    "TMAX":71,
+    "TMIN":54,
+    "TOBS":58,
+    "MON":"October"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7161,37.6336,329.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150483",
+    "NAME":"BEATTYVILLE 4 N, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":56,
+    "TOBS":61,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.36253,38.68974,14 ]
+    },
+    "properties": {
+    "STATION":"USW00013764",
+    "NAME":"GEORGETOWN DELAWARE COASTAL AIRPORT, DE US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":55,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6866,37.2318,149.4 ]
+    },
+    "properties": {
+    "STATION":"USC00150012",
+    "NAME":"ABERDEEN, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":null,
+    "TMIN":null,
+    "TOBS":63,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":58,
+    "TMIN":45,
+    "TOBS":46,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":null,
+    "TMIN":44,
+    "TOBS":49,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6333,37.75,359.7 ]
+    },
+    "properties": {
+    "STATION":"USR0000KBSN",
+    "NAME":"BIG SANDY KENTUCKY, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":66,
+    "TMAX":71,
+    "TMIN":58,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7705,37.3577,268.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150860",
+    "NAME":"BOONEVILLE 12 SW, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":74,
+    "TMIN":45,
+    "TOBS":55,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7163,40.1117,256.3 ]
+    },
+    "properties": {
+    "STATION":"USC00120177",
+    "NAME":"ANDERSON SEWAGE PLANT, IN US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":49,
+    "TMIN":41,
+    "TOBS":41,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97,38.9133,15.2 ]
+    },
+    "properties": {
+    "STATION":"USC00186350",
+    "NAME":"NATIONAL ARBORETUM DC, MD US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":68,
+    "TMIN":42,
+    "TOBS":57,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6572,37.9161,167.6 ]
+    },
+    "properties": {
+    "STATION":"USC00150630",
+    "NAME":"BERNHEIM FOREST, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":64,
+    "TMIN":60,
+    "TOBS":64,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0183,41.6639,310.9 ]
+    },
+    "properties": {
+    "STATION":"USC00120200",
+    "NAME":"ANGOLA, IN US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":57,
+    "TMIN":44,
+    "TOBS":44,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":59,
+    "TMIN":46,
+    "TOBS":46,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.3363,36.858,111.3 ]
+    },
+    "properties": {
+    "STATION":"USC00150611",
+    "NAME":"BENTON, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":null,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0127,38.7699,154.8 ]
+    },
+    "properties": {
+    "STATION":"USC00150290",
+    "NAME":"AUGUSTA 2, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":72,
+    "TMIN":59,
+    "TOBS":60,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4706,37.3417,237.7 ]
+    },
+    "properties": {
+    "STATION":"USC00151080",
+    "NAME":"BUCKHORN LAKE, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":42,
+    "TOBS":55,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1247,36.8977,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150422",
+    "NAME":"BARREN RIVER LAKE, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":70,
+    "TMIN":44,
+    "TOBS":69,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4238,36.9647,160.9 ]
+    },
+    "properties": {
+    "STATION":"USW00093808",
+    "NAME":"BOWLING GREEN WARREN CO AIRPORT, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":69,
+    "TMIN":47,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3803,36.7956,260 ]
+    },
+    "properties": {
+    "STATION":"USR0000KALP",
+    "NAME":"ALPINE KENTUCKY, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":62,
+    "TMAX":68,
+    "TMIN":50,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2325,37.2504,240.8 ]
+    },
+    "properties": {
+    "STATION":"USW00063849",
+    "NAME":"BOWLING GREEN 21 NNE, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":66,
+    "TMIN":44,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1162,37.956,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150955",
+    "NAME":"BRANDENBURG, KY US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":66,
+    "TMIN":60,
+    "TOBS":62,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0158,41.9163,231.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200032",
+    "NAME":"ADRIAN, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":49,
+    "TMIN":40,
+    "TOBS":40,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1994,35.3992,185.9 ]
+    },
+    "properties": {
+    "STATION":"USC00310090",
+    "NAME":"ALBEMARLE, NC US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":74,
+    "TMIN":52,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":67,
+    "TMIN":38,
+    "TOBS":56,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.08339,40.82915,80.2 ]
+    },
+    "properties": {
+    "STATION":"USC00280734",
+    "NAME":"BELVIDERE BRIDGE, NJ US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":65,
+    "TMIN":31,
+    "TOBS":46,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.684,39.1733,47.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093721",
+    "NAME":"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",
+    "DATE":"11/1/2018",
+    "TAVG":61,
+    "TMAX":75,
+    "TMIN":50,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":49,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.74444,42.22278,255.7 ]
+    },
+    "properties": {
+    "STATION":"USW00094889",
+    "NAME":"ANN ARBOR MUNICIPAL AIRPORT, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":47,
+    "TMIN":41,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.46667,38.98333,2.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013752",
+    "NAME":"ANNAPOLIS NAF, MD US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":58,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07944,41.86778,242.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004847",
+    "NAME":"ADRIAN LENAWEE CO AIRPORT, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":48,
+    "TMIN":41,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4544,46.2347,448.1 ]
+    },
+    "properties": {
+    "STATION":"USC00200197",
+    "NAME":"AMASA 1 W, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":42,
+    "TMIN":20,
+    "TOBS":23,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4435,40.9181,369.7 ]
+    },
+    "properties": {
+    "STATION":"USW00014895",
+    "NAME":"AKRON CANTON AIRPORT, OH US",
+    "DATE":"11/1/2018",
+    "TAVG":49,
+    "TMAX":58,
+    "TMIN":44,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,38.4167,426.7 ]
+    },
+    "properties": {
+    "STATION":"USR0000MBLA",
+    "NAME":"BLACKWATER MARYLAND, MD US",
+    "DATE":"11/1/2018",
+    "TAVG":66,
+    "TMAX":74,
+    "TMIN":58,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9315,39.0302,44.2 ]
+    },
+    "properties": {
+    "STATION":"USC00180700",
+    "NAME":"BELTSVILLE, MD US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":68,
+    "TMIN":45,
+    "TOBS":55,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.46417,41.0375,318.2 ]
+    },
+    "properties": {
+    "STATION":"USW00014813",
+    "NAME":"AKRON FULTON INTERNATIONAL AIRPORT, OH US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":53,
+    "TMIN":45,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.428,45.0605,179.8 ]
+    },
+    "properties": {
+    "STATION":"USW00014814",
+    "NAME":"ALPENA WASTEWATER PLANT, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":53,
+    "TMIN":30,
+    "TOBS":36,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.42361,39.37778,3 ]
+    },
+    "properties": {
+    "STATION":"USW00013724",
+    "NAME":"ATLANTIC CITY MARINA, NJ US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":66,
+    "TMIN":59,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8369,35.7426,137.2 ]
+    },
+    "properties": {
+    "STATION":"USC00310212",
+    "NAME":"APEX, NC US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":44,
+    "TOBS":57,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4812,46.6448,399.3 ]
+    },
+    "properties": {
+    "STATION":"USC00200089",
+    "NAME":"ALBERTA FORD FOR CENTER, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":41,
+    "TMIN":32,
+    "TOBS":33,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.56699,39.45202,18.3 ]
+    },
+    "properties": {
+    "STATION":"USW00093730",
+    "NAME":"ATLANTIC CITY INTERNATIONAL AIRPORT, NJ US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":75,
+    "TMIN":57,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":67,
+    "TMIN":40,
+    "TOBS":50,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6933,42.2416,253.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200228",
+    "NAME":"ANN ARBOR SE, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":55,
+    "TMIN":42,
+    "TOBS":44,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5436,42.6158,176.8 ]
+    },
+    "properties": {
+    "STATION":"USC00200106",
+    "NAME":"ALGONAC WWTP, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":55,
+    "TMIN":46,
+    "TOBS":46,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.69583,41.77806,281.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004857",
+    "NAME":"ASHTABULA CO AIRPORT, OH US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":49,
+    "TMIN":44,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5644,45.0716,208.5 ]
+    },
+    "properties": {
+    "STATION":"USW00094849",
+    "NAME":"ALPENA CO REGIONAL AIRPORT, MI US",
+    "DATE":"11/1/2018",
+    "TAVG":38,
+    "TMAX":44,
+    "TMIN":32,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9781,37.3451,105.2 ]
+    },
+    "properties": {
+    "STATION":"USC00440187",
+    "NAME":"AMELIA COURTHOUSE 1, VA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":71,
+    "TMIN":48,
+    "TOBS":58,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":67,
+    "TMIN":37,
+    "TOBS":49,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.123,37.7836,766.3 ]
+    },
+    "properties": {
+    "STATION":"USW00003872",
+    "NAME":"BECKLEY RALEIGH CO AIRPORT, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":60,
+    "TMAX":65,
+    "TMIN":54,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4667,40.4949,402.3 ]
+    },
+    "properties": {
+    "STATION":"USC00360140",
+    "NAME":"ALTOONA 3 W, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":69,
+    "TMIN":54,
+    "TOBS":59,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1025,41.4864,539.5 ]
+    },
+    "properties": {
+    "STATION":"USR0000PALL",
+    "NAME":"ALLEGHENY PENNSYLVANIA, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":49,
+    "TMAX":57,
+    "TMIN":44,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8152,40.5361,228 ]
+    },
+    "properties": {
+    "STATION":"USC00360022",
+    "NAME":"ACMETONIA LOCK 3, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":66,
+    "TMIN":49,
+    "TOBS":59,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.32028,40.29639,451.1 ]
+    },
+    "properties": {
+    "STATION":"USW00014736",
+    "NAME":"ALTOONA BLAIR CO AIRPORT, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":72,
+    "TMIN":58,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1176,35.7977,100.6 ]
+    },
+    "properties": {
+    "STATION":"USC00400049",
+    "NAME":"ALAMO 1 N, TN US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":75,
+    "TMIN":64,
+    "TOBS":64,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.44771,40.64985,118.9 ]
+    },
+    "properties": {
+    "STATION":"USW00014737",
+    "NAME":"ALLENTOWN LEHIGH VALLEY INTERNATIONAL AIRPORT, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":49,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.92644,41.35789,283.5 ]
+    },
+    "properties": {
+    "STATION":"USC00360147",
+    "NAME":"ALVIN R BUSH DAM, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":66,
+    "TMIN":39,
+    "TOBS":54,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":67,
+    "TMIN":38,
+    "TOBS":56,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8744,36.3805,501.4 ]
+    },
+    "properties": {
+    "STATION":"USC00400081",
+    "NAME":"ALLARDT, TN US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":69,
+    "TMIN":50,
+    "TOBS":62,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1179,38.1211,395 ]
+    },
+    "properties": {
+    "STATION":"USC00460202",
+    "NAME":"ANSTEAD HAWKS NEST STATE PARK, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":72,
+    "TMIN":40,
+    "TOBS":53,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5833,35.4322,286.5 ]
+    },
+    "properties": {
+    "STATION":"USC00400284",
+    "NAME":"ATHENS, TN US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":77,
+    "TMIN":47,
+    "TOBS":66,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.85611,34.9925,269.7 ]
+    },
+    "properties": {
+    "STATION":"USC00400235",
+    "NAME":"ARDMORE, TN US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":55,
+    "TOBS":57,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2263,37.2555,874.8 ]
+    },
+    "properties": {
+    "STATION":"USC00460925",
+    "NAME":"BLUEFIELD, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":64,
+    "TMIN":35,
+    "TOBS":52,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.20366,37.2978,870.5 ]
+    },
+    "properties": {
+    "STATION":"USW00003859",
+    "NAME":"BLUEFIELD MERCER CO AIRPORT, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":64,
+    "TMIN":54,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43444,37.70806,62.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093775",
+    "NAME":"ASHLAND HANOVER CO MUNICIPAL AIRPORT, VA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":73,
+    "TMIN":59,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4833,37.75,67.1 ]
+    },
+    "properties": {
+    "STATION":"USC00440327",
+    "NAME":"ASHLAND, VA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":71,
+    "TMIN":56,
+    "TOBS":67,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8274,37.3261,259.1 ]
+    },
+    "properties": {
+    "STATION":"USC00440243",
+    "NAME":"APPOMATTOX, VA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":68,
+    "TMIN":42,
+    "TOBS":54,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6428,40.8619,224 ]
+    },
+    "properties": {
+    "STATION":"USC00360560",
+    "NAME":"BELTZVILLE DAM, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":64,
+    "TMIN":32,
+    "TOBS":50,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.19405,37.76475,710.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460580",
+    "NAME":"BECKLEY VA HOSPITAL, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":67,
+    "TMIN":35,
+    "TOBS":49,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7861,39.8593,121.9 ]
+    },
+    "properties": {
+    "STATION":"USW00003761",
+    "NAME":"AVONDALE 2 N, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":70,
+    "TMIN":48,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":71,
+    "TMIN":32,
+    "TOBS":44,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9333,36.6833,365.8 ]
+    },
+    "properties": {
+    "STATION":"USR0000VBAC",
+    "NAME":"BACK BAY VIRGINIA, VA US",
+    "DATE":"11/1/2018",
+    "TAVG":67,
+    "TMAX":75,
+    "TMIN":59,
+    "TOBS":null,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.3694,40.5227,390.1 ]
+    },
+    "properties": {
+    "STATION":"USC00360132",
+    "NAME":"ALTOONA, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":72,
+    "TMIN":59,
+    "TOBS":63,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7714,38.5312,922 ]
+    },
+    "properties": {
+    "STATION":"USC00460509",
+    "NAME":"BARTOW 1 S, WV US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":68,
+    "TMIN":34,
+    "TOBS":49,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2122,35.1131,140.2 ]
+    },
+    "properties": {
+    "STATION":"USC00400137",
+    "NAME":"AMES PLANTATION, TN US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":62,
+    "TOBS":62,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.49831,40.82086,309.4 ]
+    },
+    "properties": {
+    "STATION":"USC00360457",
+    "NAME":"BEAR GAP, PA US",
+    "DATE":"11/1/2018",
+    "TAVG":null,
+    "TMAX":69,
+    "TMIN":53,
+    "TOBS":64,
+    "MON":"November"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7161,37.6336,329.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150483",
+    "NAME":"BEATTYVILLE 4 N, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":67,
+    "TOBS":68,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.36253,38.68974,14 ]
+    },
+    "properties": {
+    "STATION":"USW00013764",
+    "NAME":"GEORGETOWN DELAWARE COASTAL AIRPORT, DE US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":74,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7447,41.1977,222.5 ]
+    },
+    "properties": {
+    "STATION":"USC00110072",
+    "NAME":"ALEDO, IL US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":59,
+    "TOBS":60,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.14886,38.86702,132.6 ]
+    },
+    "properties": {
+    "STATION":"USC00110137",
+    "NAME":"ALTON MELVIN PRICE LOCK AND DAM, IL US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":75,
+    "TMIN":62,
+    "TOBS":65,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6333,37.75,359.7 ]
+    },
+    "properties": {
+    "STATION":"USR0000KBSN",
+    "NAME":"BIG SANDY KENTUCKY, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":71,
+    "TMAX":77,
+    "TMIN":68,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7705,37.3577,268.2 ]
+    },
+    "properties": {
+    "STATION":"USC00150860",
+    "NAME":"BOONEVILLE 12 SW, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":67,
+    "TOBS":68,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7163,40.1117,256.3 ]
+    },
+    "properties": {
+    "STATION":"USC00120177",
+    "NAME":"ANDERSON SEWAGE PLANT, IN US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":76,
+    "TMIN":62,
+    "TOBS":65,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.97,38.9133,15.2 ]
+    },
+    "properties": {
+    "STATION":"USC00186350",
+    "NAME":"NATIONAL ARBORETUM DC, MD US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":74,
+    "TOBS":81,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6572,37.9161,167.6 ]
+    },
+    "properties": {
+    "STATION":"USC00150630",
+    "NAME":"BERNHEIM FOREST, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":86,
+    "TMIN":67,
+    "TOBS":74,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0183,41.6639,310.9 ]
+    },
+    "properties": {
+    "STATION":"USC00120200",
+    "NAME":"ANGOLA, IN US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":72,
+    "TMIN":60,
+    "TOBS":61,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1134,38.9385,45.7 ]
+    },
+    "properties": {
+    "STATION":"USC00182325",
+    "NAME":"DALECARLIA RESERVOIR, MD US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":71,
+    "TOBS":77,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1641,41.1204,233.2 ]
+    },
+    "properties": {
+    "STATION":"USC00110140",
+    "NAME":"ALTONA, IL US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":55,
+    "TOBS":56,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.3363,36.858,111.3 ]
+    },
+    "properties": {
+    "STATION":"USC00150611",
+    "NAME":"BENTON, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":86,
+    "TMIN":61,
+    "TOBS":64,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0127,38.7699,154.8 ]
+    },
+    "properties": {
+    "STATION":"USC00150290",
+    "NAME":"AUGUSTA 2, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":69,
+    "TOBS":69,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4706,37.3417,237.7 ]
+    },
+    "properties": {
+    "STATION":"USC00151080",
+    "NAME":"BUCKHORN LAKE, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":69,
+    "TOBS":70,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1247,36.8977,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150422",
+    "NAME":"BARREN RIVER LAKE, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":67,
+    "TOBS":69,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4238,36.9647,160.9 ]
+    },
+    "properties": {
+    "STATION":"USW00093808",
+    "NAME":"BOWLING GREEN WARREN CO AIRPORT, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":69,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3803,36.7956,260 ]
+    },
+    "properties": {
+    "STATION":"USR0000KALP",
+    "NAME":"ALPINE KENTUCKY, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":73,
+    "TMAX":79,
+    "TMIN":68,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2325,37.2504,240.8 ]
+    },
+    "properties": {
+    "STATION":"USW00063849",
+    "NAME":"BOWLING GREEN 21 NNE, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":66,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.1162,37.956,187.5 ]
+    },
+    "properties": {
+    "STATION":"USC00150955",
+    "NAME":"BRANDENBURG, KY US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":66,
+    "TOBS":66,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0158,41.9163,231.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200032",
+    "NAME":"ADRIAN, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":60,
+    "TOBS":60,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1994,35.3992,185.9 ]
+    },
+    "properties": {
+    "STATION":"USC00310090",
+    "NAME":"ALBEMARLE, NC US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":72,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":55,
+    "TOBS":62,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.08339,40.82915,80.2 ]
+    },
+    "properties": {
+    "STATION":"USC00280734",
+    "NAME":"BELVIDERE BRIDGE, NJ US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":62,
+    "TOBS":70,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.684,39.1733,47.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093721",
+    "NAME":"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",
+    "DATE":"8/1/2018",
+    "TAVG":80,
+    "TMAX":89,
+    "TMIN":72,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.73633,41.00928,176.8 ]
+    },
+    "properties": {
+    "STATION":"USW00054779",
+    "NAME":"AEROFLEX ANDOVER AIRPORT, NJ US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":70,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.74444,42.22278,255.7 ]
+    },
+    "properties": {
+    "STATION":"USW00094889",
+    "NAME":"ANN ARBOR MUNICIPAL AIRPORT, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":57,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.46667,38.98333,2.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013752",
+    "NAME":"ANNAPOLIS NAF, MD US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":90,
+    "TMIN":76,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07944,41.86778,242.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004847",
+    "NAME":"ADRIAN LENAWEE CO AIRPORT, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":62,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4544,46.2347,448.1 ]
+    },
+    "properties": {
+    "STATION":"USC00200197",
+    "NAME":"AMASA 1 W, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":43,
+    "TOBS":58,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4435,40.9181,369.7 ]
+    },
+    "properties": {
+    "STATION":"USW00014895",
+    "NAME":"AKRON CANTON AIRPORT, OH US",
+    "DATE":"8/1/2018",
+    "TAVG":73,
+    "TMAX":77,
+    "TMIN":66,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76,38.4167,426.7 ]
+    },
+    "properties": {
+    "STATION":"USR0000MBLA",
+    "NAME":"BLACKWATER MARYLAND, MD US",
+    "DATE":"8/1/2018",
+    "TAVG":82,
+    "TMAX":88,
+    "TMIN":77,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9315,39.0302,44.2 ]
+    },
+    "properties": {
+    "STATION":"USC00180700",
+    "NAME":"BELTSVILLE, MD US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":71,
+    "TOBS":78,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.46417,41.0375,318.2 ]
+    },
+    "properties": {
+    "STATION":"USW00014813",
+    "NAME":"AKRON FULTON INTERNATIONAL AIRPORT, OH US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":68,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.428,45.0605,179.8 ]
+    },
+    "properties": {
+    "STATION":"USW00014814",
+    "NAME":"ALPENA WASTEWATER PLANT, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":60,
+    "TOBS":65,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.42361,39.37778,3 ]
+    },
+    "properties": {
+    "STATION":"USW00013724",
+    "NAME":"ATLANTIC CITY MARINA, NJ US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":76,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8369,35.7426,137.2 ]
+    },
+    "properties": {
+    "STATION":"USC00310212",
+    "NAME":"APEX, NC US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":87,
+    "TMIN":72,
+    "TOBS":73,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.4812,46.6448,399.3 ]
+    },
+    "properties": {
+    "STATION":"USC00200089",
+    "NAME":"ALBERTA FORD FOR CENTER, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":84,
+    "TMIN":56,
+    "TOBS":64,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.56699,39.45202,18.3 ]
+    },
+    "properties": {
+    "STATION":"USW00093730",
+    "NAME":"ATLANTIC CITY INTERNATIONAL AIRPORT, NJ US",
+    "DATE":"8/1/2018",
+    "TAVG":81,
+    "TMAX":90,
+    "TMIN":77,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1697,39.4716,17.4 ]
+    },
+    "properties": {
+    "STATION":"USW00013701",
+    "NAME":"ABERDEEN PHILLIPS FIELD, MD US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":69,
+    "TOBS":75,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6933,42.2416,253.6 ]
+    },
+    "properties": {
+    "STATION":"USC00200228",
+    "NAME":"ANN ARBOR SE, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":61,
+    "TOBS":64,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5436,42.6158,176.8 ]
+    },
+    "properties": {
+    "STATION":"USC00200106",
+    "NAME":"ALGONAC WWTP, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":62,
+    "TOBS":64,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.69583,41.77806,281.6 ]
+    },
+    "properties": {
+    "STATION":"USW00004857",
+    "NAME":"ASHTABULA CO AIRPORT, OH US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":77,
+    "TMIN":67,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5644,45.0716,208.5 ]
+    },
+    "properties": {
+    "STATION":"USW00094849",
+    "NAME":"ALPENA CO REGIONAL AIRPORT, MI US",
+    "DATE":"8/1/2018",
+    "TAVG":71,
+    "TMAX":85,
+    "TMIN":61,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9781,37.3451,105.2 ]
+    },
+    "properties": {
+    "STATION":"USC00440187",
+    "NAME":"AMELIA COURTHOUSE 1, VA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":72,
+    "TOBS":75,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9646,36.6687,586.7 ]
+    },
+    "properties": {
+    "STATION":"USC00440021",
+    "NAME":"ABINGDON 3 S, VA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":67,
+    "TOBS":67,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.123,37.7836,766.3 ]
+    },
+    "properties": {
+    "STATION":"USW00003872",
+    "NAME":"BECKLEY RALEIGH CO AIRPORT, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":69,
+    "TMAX":75,
+    "TMIN":66,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4667,40.4949,402.3 ]
+    },
+    "properties": {
+    "STATION":"USC00360140",
+    "NAME":"ALTOONA 3 W, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":66,
+    "TOBS":66,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1025,41.4864,539.5 ]
+    },
+    "properties": {
+    "STATION":"USR0000PALL",
+    "NAME":"ALLEGHENY PENNSYLVANIA, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":70,
+    "TMAX":79,
+    "TMIN":65,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8152,40.5361,228 ]
+    },
+    "properties": {
+    "STATION":"USC00360022",
+    "NAME":"ACMETONIA LOCK 3, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":88,
+    "TMIN":64,
+    "TOBS":68,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.32028,40.29639,451.1 ]
+    },
+    "properties": {
+    "STATION":"USW00014736",
+    "NAME":"ALTOONA BLAIR CO AIRPORT, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":69,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1176,35.7977,100.6 ]
+    },
+    "properties": {
+    "STATION":"USC00400049",
+    "NAME":"ALAMO 1 N, TN US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":83,
+    "TMIN":68,
+    "TOBS":69,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.44771,40.64985,118.9 ]
+    },
+    "properties": {
+    "STATION":"USW00014737",
+    "NAME":"ALLENTOWN LEHIGH VALLEY INTERNATIONAL AIRPORT, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":79,
+    "TMAX":89,
+    "TMIN":72,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.92644,41.35789,283.5 ]
+    },
+    "properties": {
+    "STATION":"USC00360147",
+    "NAME":"ALVIN R BUSH DAM, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":72,
+    "TMIN":63,
+    "TOBS":67,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3684,39.2728,735.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460527",
+    "NAME":"BAYARD, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":55,
+    "TOBS":62,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.8744,36.3805,501.4 ]
+    },
+    "properties": {
+    "STATION":"USC00400081",
+    "NAME":"ALLARDT, TN US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":66,
+    "TOBS":68,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1179,38.1211,395 ]
+    },
+    "properties": {
+    "STATION":"USC00460202",
+    "NAME":"ANSTEAD HAWKS NEST STATE PARK, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":64,
+    "TOBS":67,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5833,35.4322,286.5 ]
+    },
+    "properties": {
+    "STATION":"USC00400284",
+    "NAME":"ATHENS, TN US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":68,
+    "TOBS":69,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.85611,34.9925,269.7 ]
+    },
+    "properties": {
+    "STATION":"USC00400235",
+    "NAME":"ARDMORE, TN US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":88,
+    "TMIN":69,
+    "TOBS":78,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2263,37.2555,874.8 ]
+    },
+    "properties": {
+    "STATION":"USC00460925",
+    "NAME":"BLUEFIELD, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":65,
+    "TOBS":66,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.20366,37.2978,870.5 ]
+    },
+    "properties": {
+    "STATION":"USW00003859",
+    "NAME":"BLUEFIELD MERCER CO AIRPORT, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":75,
+    "TMIN":63,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.43444,37.70806,62.5 ]
+    },
+    "properties": {
+    "STATION":"USW00093775",
+    "NAME":"ASHLAND HANOVER CO MUNICIPAL AIRPORT, VA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":89,
+    "TMIN":74,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4833,37.75,67.1 ]
+    },
+    "properties": {
+    "STATION":"USC00440327",
+    "NAME":"ASHLAND, VA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":72,
+    "TOBS":84,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8274,37.3261,259.1 ]
+    },
+    "properties": {
+    "STATION":"USC00440243",
+    "NAME":"APPOMATTOX, VA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":81,
+    "TMIN":68,
+    "TOBS":70,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6428,40.8619,224 ]
+    },
+    "properties": {
+    "STATION":"USC00360560",
+    "NAME":"BELTZVILLE DAM, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":78,
+    "TMIN":62,
+    "TOBS":69,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.19405,37.76475,710.2 ]
+    },
+    "properties": {
+    "STATION":"USC00460580",
+    "NAME":"BECKLEY VA HOSPITAL, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":79,
+    "TMIN":62,
+    "TOBS":65,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.7861,39.8593,121.9 ]
+    },
+    "properties": {
+    "STATION":"USW00003761",
+    "NAME":"AVONDALE 2 N, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":70,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.65837,37.72716,473 ]
+    },
+    "properties": {
+    "STATION":"USC00460102",
+    "NAME":"ALDERSON, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":80,
+    "TMIN":65,
+    "TOBS":67,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9333,36.6833,365.8 ]
+    },
+    "properties": {
+    "STATION":"USR0000VBAC",
+    "NAME":"BACK BAY VIRGINIA, VA US",
+    "DATE":"8/1/2018",
+    "TAVG":82,
+    "TMAX":89,
+    "TMIN":77,
+    "TOBS":null,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.3694,40.5227,390.1 ]
+    },
+    "properties": {
+    "STATION":"USC00360132",
+    "NAME":"ALTOONA, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":82,
+    "TMIN":63,
+    "TOBS":70,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7714,38.5312,922 ]
+    },
+    "properties": {
+    "STATION":"USC00460509",
+    "NAME":"BARTOW 1 S, WV US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":74,
+    "TMIN":60,
+    "TOBS":64,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2122,35.1131,140.2 ]
+    },
+    "properties": {
+    "STATION":"USC00400137",
+    "NAME":"AMES PLANTATION, TN US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":85,
+    "TMIN":65,
+    "TOBS":66,
+    "MON":"August"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.49831,40.82086,309.4 ]
+    },
+    "properties": {
+    "STATION":"USC00360457",
+    "NAME":"BEAR GAP, PA US",
+    "DATE":"8/1/2018",
+    "TAVG":null,
+    "TMAX":74,
+    "TMIN":60,
+    "TOBS":67,
+    "MON":"August"
+    }
+  }
+]
+}

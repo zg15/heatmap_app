@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Create a heatmap layer</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+        .session {
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 20px;
+            line-height: 30px;
+        }
+        a {
+            text-decoration: none;
+            color: #2dc4b2;
+        }
+
+        #console {
+            position: absolute;
+            width: 240px;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+
+
+<div id='map'></div>
+<div id='console'>
+    <h1>Temperature Map</h1>
+    <p>Data: <a href='https://www.ncdc.noaa.gov'>Temperature in PJM areas</a> in United States, Aug 2018 to Nov 2018</p>
+    <div class='session' id='sliderbar'>
+        <h2>Month: <label id='active-hour'>August</label></h2>
+        <input id='slider' class='row' type='range' min='8' max='11' step='1' value='4'/>
+    </div>
+</div>
+
+
+<!--<div id='map'></div>-->
+
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiemcxNSIsImEiOiJjanJ6cHV1M3owaG5uNDRvM2VoZWwzYnl1In0.V3toIzxOaNmyywDIayP8vg';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v9',
+        center: [-120, 50],
+        zoom: 4
+    });
+
+    map.on('load', function() {
+// Add a geojson point source.
+// Heatmap layers also work with a vector tile source.
+
+
+
+        map.addSource('aaa', {
+            "type": "geojson",
+            "data": "aug_2_nov.geojson"
+        });
+
+        // var picnic_parks = L.geoJson("dalaware.geojson", {filter: picnicFilter}).addTo(map);
+        //
+        // function picnicFilter(feature) {
+        //     return true
+        // }
+
+        // map.getSource('aaa').setData("illi.geojson");
+
+        // var newsrc = map.querySourceFeatures('new_src', {sourceLayer: 'aaa', filter: []});
+        // map.setFilter('aaa', ['==', 'Date', '1/9/2019']);
+
+        map.addLayer({
+            "id": "earthquakes-heat",
+            "type": "heatmap",
+            "source": "aaa",
+            "maxzoom": 9,
+            "paint": {
+
+                "heatmap-weight": [
+                    "interpolate",
+                    ["linear"],
+                    ["get", "TMAX"],
+                    0, 0,
+                    90, 1
+                ],
+
+                "heatmap-intensity": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    0, 1,
+                    9, 3
+                ],
+
+                "heatmap-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["heatmap-density"],
+                    0, "rgba(33,102,172,0)",
+                    0.2, "rgb(103,169,207)",
+                    0.4, "rgb(0,255,255)",
+                    0.6, "rgb(0,204,102)",
+                    0.8, "rgb(204,102,0)",
+                    1, "rgb(204,0,0)"
+                ],
+
+                "heatmap-radius": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    0, 10,
+                    9, 60
+                ],
+
+                "heatmap-opacity": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    7, 1,
+                    9, 0
+                ],
+            }
+        }, 'waterway-label');
+
+        map.addLayer({
+            "id": "earthquakes-point",
+            "type": "circle",
+            "source": "aaa",
+            "minzoom": 7,
+            "paint": {
+
+                "circle-radius": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    7, [
+                        "interpolate",
+                        ["linear"],
+                        ["get", "TMAX"],
+                        1, 1,
+                        6, 4
+                    ],
+                    16, [
+                        "interpolate",
+                        ["linear"],
+                        ["get", "TMAX"],
+                        1, 5,
+                        6, 50
+                    ]
+                ],
+
+                "circle-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["get", "mag"],
+                    1, "rgba(33,102,172,0)",
+                    2, "rgb(103,169,207)",
+                    3, "rgb(209,229,240)",
+                    4, "rgb(253,219,199)",
+                    5, "rgb(239,138,98)",
+                    6, "rgb(178,24,43)"
+                ],
+                "circle-stroke-color": "white",
+                "circle-stroke-width": 1,
+
+                "circle-opacity": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    7, 0,
+                    8, 1
+                ]
+            }
+        }, 'waterway-label');
+
+        //
+        map.setFilter('earthquakes-heat', ['==', ['get', 'MON'], 'August']);
+        // map.setFilter('earthquakes-heat', ['==', ['get', 'MON'], 'Janauary']);
+        // map.setFilter('earthquakes-heat', ['==', ['get', 'MON'], 'January']);
+
+    });
+</script>
+
+<script>
+    document.getElementById('slider').addEventListener('input', function (e) {
+        var month = parseInt(e.target.value);
+        var curmonth = 'None';
+        if (month === 8) {
+            curmonth = 'August';
+        } else if (month === 9) {
+            curmonth = 'September';
+        } else if (month === 10) {
+            curmonth = 'October';
+        } else {
+            curmonth = 'November';
+        }
+        document.getElementById('active-hour').innerText = curmonth;
+
+        map.setFilter('earthquakes-heat', ['==', ['get', 'MON'], curmonth]);
+    });
+</script>
+
+</body>
+</html>
